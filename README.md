@@ -34,7 +34,7 @@
     <img src="images/8257744.jpg" alt="Logo" width="320" height="180">
   </a>
 
-<h3 align="center">Automatic find "best man for the job" given a job description</h3>
+<h3 align="center">CV - JOB - Matching</h3>
 
   <p align="center">
     <br />
@@ -68,9 +68,17 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+👋 Hi and welcome! 
 
-This project is created to become more familiar with basic NLP processed. The aim of the project is to match a CV of a potential candidate with a job description. In other words, making the job of staffing automatic.
-    This focus of this project will be to get familiar with NLP principles but also to try and generate synthetic text (CV's) givin a few keywords.
+This project was created to become more familiar with basic NLP processes. The project aims to match a CV of a potential candidate with a job description. In other words, making the job of staffing automatic.
+
+The code can be found in notebook "notebook_cv.ipynb" which does the following:
+  - Extract text from pdfs
+  - Perform basic text cleaning
+  - Train Doc2Vec-model
+  - Match best CV based on specific texts
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,7 +118,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the BSD 3-Clause License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
