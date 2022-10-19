@@ -1,0 +1,68 @@
+Data Science Buzzwords 
+
+NLP SQL Python Fraud Detection Outlier ML Machine Learning Web Development exploration mining data visualization 
+
+
+Algorithm: A specified and defined step-by-step process used to solve logical problems. Computers carry out tasks quickly and accurately using algorithms. Algorithms are ideal for sorting, processing, and analyzing large databases (Career Foundry).
+Artificial Intelligence (AI): Technology that attempts to reproduce any component of human intellect on a larger scale and possesses advanced cognitive abilities. AI does more than merely collect data and carry out a specified job. It applies a certain level of intelligence to analyze and gain insights from the data (Forbes). The most critical component of AI is data. Efficiently running your algorithms and models will require robust data sets stored in a cloud environment. Cloud computing continues to play a significant role in shaping AI use cases (Towards Data Science, Medium).
+Big Data: A large amount of data that can't be stored and processed in a reasonable amount of time using typical computing methods. The three key traits of big data are volume (amount of data rendered), velocity (speed of data rendering), and variety (types of data) (The Startup - Medium).
+Business Intelligence (BI): A subset of data analytics, BI transforms data into actionable insights that help a business make strategic and tactical decisions. BI tools access and analyze data to show data-driven insights about an organization's current status in dashboards, graphs, charts, reports, maps, and summaries (CIO).
+Data Anonymization: By removing or encoding identifiers, data anonymization protects private or secret information in stored data. Data anonymization rules ensure that a business recognizes and upholds its responsibility to protect sensitive, personal, and confidential information (Corporate Finance Institution). Many business’ end up with Personal Identifiable Information (PII) that they need to protect from even people inside their own organizations from seeing. 
+Data Catalog / Metadata (Dataversity): 
+A data catalog organizes and simplifies access to all of an organization's data assets.
+
+The description and summary used to categorize, organize, and tag data for easier sorting and searching is referred to as metadata.
+
+Data Governance: The process of overseeing the accessibility, integrity, consumption, and security of data in business systems through company standards and regulations. Effective data governance allows businesses to meet data privacy requirements and rely on data analytics to streamline processes and make better business decisions (TechTarget).
+Data Fabric / Data Mesh (Dataversity): 
+A data fabric intends to form a single management layer over distributed data and takes an architectural approach to data access. 
+
+A data mesh promotes decentralized teams to manage data their way (along with common standard governance rules) and focuses more on linking data processes and users.
+
+Data-Informed / Data-Driven / Data-Centric (ProgrameSecure, The Data Scientist)
+The lowest level of data integration, a data-informed business collects and stores data and has it readily available for employees to access. Decision-makers are aware of the data and reference it to make decisions. However, human intuition and experience supersede data when making a decision.
+
+As the second level of data integration, a data-driven business collects and stores data and largely depends on it to make decisions. A data-driven approach requires big data management and systems/tools/algorithms to process and filter data. 
+
+At the final stage of data integration, a data-centric business prioritizes data to the point that it takes a prominent and permanent role in the organization's processes and decisions. Data science is a vital part of the company's operations, with entire departments dedicated to various data-related duties. 
+
+Data Mining: The practice of evaluating a huge batch of data to find patterns and trends. By relying on big data and advanced computing methods (AI and machine learning), data mining works to uncover correlations that can lead to inferences or predictions from unstructured or massive data sets (Investopedia).
+Data Quality: Refers to how well a dataset satisfies the needs of a user. High data quality has sufficient amount and detail to satisfy its intended use and is a requirement to make accurate data-driven decisions (Data Quality and Record Linkage Techniques).
+Data Science: A multidisciplinary approach using mathematics, statistics, artificial intelligence, and computer engineering to study data to gain useful business insights. Helps answer the what, why, and how something happened and enables a business to make informed predictions and decisions (AWS). 
+Data Scientist / Data Analyst / Data Engineer: (Toward Data Science)
+Data scientists leverage statistics, mathematics, programming, and big data to solve business problems. Data scientists are typically well-versed in SQL, Python, R, and cloud technology. 
+
+Data analysts analyze data and communicate results to make business decisions. Data analysts possess excellent communication skills and are well-versed in business operations, SQL, BI tools, Python, and R. 
+
+Data engineers build and optimize systems to allow data scientists and analysts to do their work. Data engineers possess strong programming skills and are well-versed in SQL, Python, cloud, big data, and distributed computing.  
+
+Data Transformation: The process of modifying the format, structure, or values of data to organize it better and make it easier to use. Properly structured and verified data helps mitigate data processing errors and improves compatibility between different applications and systems (Stitch).
+Data Visualization: A graphical presentation of data that makes it easier for decision-makers to quickly find and analyze trends, anomalies, and patterns in their data. Data visualization can come in the form of dashboards, charts, graphs, maps, plots, infographics, and more (CIO).
+Data Warehouse / Data Lake / Data Lakehouse: (Big Data Processing, Medium)
+A data warehouse serves as a centralized storage system for organized data. Optimized for processing and storing regularly collected data from multiple sources and formats, data warehouses provide better data quality and quicker query responses. A robust data warehouse with a lot of historical data can be great for ML workloads.
+
+A data lake is a high-capacity data storage with a processing layer to store structured, semi-structured, and unstructured data. It can process and store raw data where its use is still unknown. While great for complex tasks like machine learning and predictive analytics, data lakes have poor data quality and require additional tools to run queries.
+
+A data lakehouse features a combination of data warehouse and data lake capabilities in a single hybrid platform. Data lakehouses provide the form and structure of a data warehouse while offering unstructured data storage like a data lake, allowing data users to get information quickly and apply it right away.
+
+Data Wrangling: Manual or automated cleaning and processing of raw data to transform it into more functional formats for use and analysis. Data wrangling methods can vary and depend on the data and project objectives (Harvard Business School Online).
+Extract, Transform, Load (ETL) / Extract, Transform, Load (ELT): (AWS)
+ETL transforms data before loading it into a data warehouse using Apache Spark or Apache Hive on Amazon EMR or AWS Glue. ETL allows you to pick and choose the tools you want to use for data manipulations.
+
+ELT loads data into the data warehouse and then transforms the data within the data warehouse using SQL semantics and Massively Parallel Processing (MPP) architecture's highly optimized and scalable data storage and processing power. A data transformation engine is already built into the data warehouse.
+
+Hadoop: Apache Hadoop is an open source framework used to efficiently store and process large-sized datasets ranging from gigabytes to petabytes of data. Hadoop uses the clustering of multiple computers to simultaneously analyze massive datasets faster than using one large computer to store and process data (AWS).
+Machine Learning: Not synonymous with AI, machine learning is a subset of AI and is widely used in modern practice. ML uses sophisticated mathematical algorithms to detect patterns in large amounts of data to predict outcomes. Trained on representative data and solutions, ML is built and refined over time with increased amounts of data (Forbes). 
+Natural Language Processing (NLP): A method that enables computers to intelligently analyze, understand, and derive meaning from textual data. NLP lets you extract key phrases, sentiment, syntax, key elements (brand, date, place, person, etc.), as well as the language of the text. NLP can be used to gauge customer sentiment, determine the intent and the context of articles, and personalize content for your customers (AWS).
+Neural Network / Deep Learning: (WGU)
+A neural network is a type of machine learning that accepts data and generates an output based on its knowledge and examples. Used by machines to adapt and learn without reprogramming, a neural network mimics a human brain in which a neuron/node addresses a small portion of a problem and passes that knowledge to other neurons/nodes until they collectively find the solution to the whole problem.
+
+Deep learning is essentially a big neural network that's referred to as a deep neural network. With many hidden layers significantly larger than typical neural networks, deep neural networks are a subset of machine learning that uses artificial neural networks (not just algorithms) that can store and process more data than standard neural networks.
+
+Spark: A widely used open source distributed processing engine for big data applications. Apache Spark provides general batch processing, streaming analytics, machine learning, graph databases, ad hoc queries, and leverages in-memory caching and optimized execution for rapid performance (AWS).
+Structured / Unstructured Data: (G2)
+Structured data is commonly classified as quantitative data, and is highly structured, formatted, and organized that fits nicely into specified fields and columns. Names, dates, addresses, credit card numbers, stock information, and geolocation are examples of structured data.
+
+Unstructured data is commonly classified as qualitative data, and is difficult to collect, process, and analyze because it lacks organization and a set framework. Text, video files, audio files, mobile activity, social network posts, satellite images, and surveillance imaging are examples of unstructured data.
+
+X Analytics: A term coined by Gartner, X Analytics refers to the capability to perform all types of analytics on an organization's structured and unstructured data regardless of its format and storage location. The "X" in X Analytics represents the data variable for different structured and unstructured content (The New Stack).
