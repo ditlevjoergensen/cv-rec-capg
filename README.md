@@ -31,19 +31,16 @@
 <br />
 <div align="center">
   <a href="https://github.com/ditlevjoergensen/cv-rec-capg">
-    <img src="images/8257744.jpg" alt="Logo" width="80" height="80">
+    <img src="images/8257744.jpg" alt="Logo" width="320" height="180">
   </a>
 
 <h3 align="center">Automatic find "best man for the job" given a job description</h3>
 
   <p align="center">
-    This project is created to become more familiar with basic NLP processed. The aim of the project is to match a CV of a potential candidate with a job description. In other words, making the job of staffing automatic.
-    This focus of this project will be to get familiar with NLP principles but also to try and generate synthetic text (CV's) givin a few keywords.
     <br />
     <a href="https://github.com/ditlevjoergensen/cv-rec-capg"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    ·
     <a href="https://github.com/ditlevjoergensen/cv-rec-capg/issues">Report Bug</a>
     ·
     <a href="https://github.com/ditlevjoergensen/cv-rec-capg/issues">Request Feature</a>
@@ -72,9 +69,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+This project is created to become more familiar with basic NLP processed. The aim of the project is to match a CV of a potential candidate with a job description. In other words, making the job of staffing automatic.
+    This focus of this project will be to get familiar with NLP principles but also to try and generate synthetic text (CV's) givin a few keywords.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
