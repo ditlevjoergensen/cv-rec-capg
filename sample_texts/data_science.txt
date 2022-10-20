@@ -1,7 +1,7 @@
 Data Science Buzzwords 
 
-NLP SQL Python Fraud Detection Outlier ML Machine Learning Web Development exploration mining data visualization 
-
+NLP SQL Python Fraud Detection Outlier ML Machine Learning Web Development data exploration mining data visualization 
+CI/CD agile DevOps statistics models model 
 
 Algorithm: A specified and defined step-by-step process used to solve logical problems. Computers carry out tasks quickly and accurately using algorithms. Algorithms are ideal for sorting, processing, and analyzing large databases (Career Foundry).
 Artificial Intelligence (AI): Technology that attempts to reproduce any component of human intellect on a larger scale and possesses advanced cognitive abilities. AI does more than merely collect data and carry out a specified job. It applies a certain level of intelligence to analyze and gain insights from the data (Forbes). The most critical component of AI is data. Efficiently running your algorithms and models will require robust data sets stored in a cloud environment. Cloud computing continues to play a significant role in shaping AI use cases (Towards Data Science, Medium).
