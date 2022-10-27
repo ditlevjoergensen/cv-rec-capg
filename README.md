@@ -79,6 +79,9 @@ The code can be found in notebook "notebook_cv.ipynb" which does the following:
   - Match best CV based on specific texts
 
 
+If you need data yourself, download all CVs from CV-Partner (Make a proposal and then click on all relevant people). I have tested the entire I&D department. Once CVs are downloaded, create a folder called "data" and a sub-folder called "CV's" and unzip all CVs into that folder.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
